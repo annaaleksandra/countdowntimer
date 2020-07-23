@@ -5,6 +5,7 @@ This countdown timer was created for my colleagues to track how many days left b
 ![screenshot](https://raw.githubusercontent.com/annaaleksandra/countdowntimer/master/Screenshot_2020-07-23%20Page%20Title.png)
 
 ## How to use
+Go to [countdown timer](https://annaaleksandra.github.io/countdowntimer/)!
 If you are ready to get back to work, just click on "Yes!" and the app will show you how many days are left before you can bust your butt off again!
 
 
